@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/web-project-movie-app-react/static/css/main.94185528.css",
+    "main.js": "/web-project-movie-app-react/static/js/main.c6f57021.js",
+    "static/js/787.28cb0dcd.chunk.js": "/web-project-movie-app-react/static/js/787.28cb0dcd.chunk.js",
+    "static/media/texure.jpg": "/web-project-movie-app-react/static/media/texure.5fd81b0ea718d21dec89.jpg",
+    "static/media/slick.svg": "/web-project-movie-app-react/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/web-project-movie-app-react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/web-project-movie-app-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/web-project-movie-app-react/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/web-project-movie-app-react/index.html",
+    "main.94185528.css.map": "/web-project-movie-app-react/static/css/main.94185528.css.map",
+    "main.c6f57021.js.map": "/web-project-movie-app-react/static/js/main.c6f57021.js.map",
+    "787.28cb0dcd.chunk.js.map": "/web-project-movie-app-react/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94185528.css",
+    "static/js/main.c6f57021.js"
+  ]
+}
